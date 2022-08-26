@@ -1,2 +1,2 @@
-# python-for-devops
-Python for DevOps
+# automation-in-python
+Automation in Python
